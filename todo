@@ -1,0 +1,27 @@
+TODOs:
+  - make player agnostic to screensize
+    - use float for position etc...
+    - maybe write draw function in app
+  - slight acceleration
+  - simple projectiles shot by mouse click in pointing direction
+  - simple projectiles to be avoided
+  - dummy enemy
+
+LONGTERM TODOs:
+  - think about the following concept from a gameplay pov:
+    - movement concepts (run, dash, evade etc...)
+    - attacks (light, heavy etc...)
+    - itemization
+    - levels: random map generator?    
+    - map design, bosses
+    - health, stamina, mana, xp
+  - start screen and options
+  - save mechanic
+
+
+
+DONEs:
+  - should player inherit from Rect? -> no
+  - constant FPS
+  - reading wasd
+  - border collision
