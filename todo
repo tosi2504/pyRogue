@@ -1,8 +1,6 @@
 TODOs:
-  - make player agnostic to screensize
-    - use float for position etc...
-    - maybe write draw function in app
-  - slight acceleration
+  - slight acceleration:
+    - fix lacking deceleration on non-accelerated direction
   - simple projectiles shot by mouse click in pointing direction
   - simple projectiles to be avoided
   - dummy enemy
